@@ -1,0 +1,9 @@
+input {
+    background-color: #D9D9D9;
+    border: #D9D9D9;
+}
+
+input:focus {
+    outline-color: #4B7EFF;
+
+}
